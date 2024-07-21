@@ -4,10 +4,10 @@ Welcome to the Ability In Every Disability Donation website with payment gateway
 **Website:** https://naveenz123.github.io
 
 ## Features
-- Payment Gateway Integration: Secure integration with popular payment gateways to process transactions \
-- Responsive Design: A user-friendly interface \
-- Email Notifications: Automatic email receipts and notifications for donors \
-- Donation Goal Progress: Visual representation of donation goals and progress 
+- ***Payment Gateway Integration:*** Secure integration with popular payment gateways to process transactions 
+- ***Responsive Design:*** A user-friendly interface 
+- ***Email Notifications:*** Automatic email receipts and notifications for donors 
+- ***Donation Goal Progress:*** Visual representation of donation goals and progress 
 
 ## Technologies Used
 ### Frontend:
