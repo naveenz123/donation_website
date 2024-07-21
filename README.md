@@ -8,12 +8,12 @@ Email Notifications: Automatic email receipts and notifications for donors
 Donation Goal Progress: Visual representation of donation goals and progress
 
 ## Technologies Used
-#### Frontend:
+### Frontend:
 HTML
 CSS
 JavaScript
 
-#### Payment Gateway:
+### Payment Gateway:
 Razorpay
 
 ## Usage
