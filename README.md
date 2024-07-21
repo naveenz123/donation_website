@@ -11,8 +11,8 @@ Donation Goal Progress: Visual representation of donation goals and progress
 
 ## Technologies Used
 ### Frontend:
-HTML
-CSS
+HTML \
+CSS  \
 JavaScript
 
 ### Payment Gateway:
