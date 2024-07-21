@@ -17,6 +17,6 @@ JavaScript
 Razorpay
 
 ## Usage
-Donate: Users can select the cause they wish to donate to and make a payment using PayPal or Stripe.
+Donate: Users can donate to the cause by paying through the payment gateway 
 
 
